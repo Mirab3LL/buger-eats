@@ -1,9 +1,7 @@
 # buger-eats
 Cypress Discovery QAninja
 ## APP
-### Validação
-- abobora
-* abacaxi
-1. fruta
-> tatu bola
-<img src="teste-1.png">
+### Validação de cadastro 
+* Automação de testes para verificar cadastro
+* Validação de preenchimento dos campos
+* Validação de mensagens de erro 
